@@ -13,7 +13,7 @@ ajitamtama@github:~$ whoami
 
 Aji Tamtama Brilliant Syahputra
 
-Computer Science Student
+Computer Science Student at BANJARMASIN STATE POLYTECHNIC
 Mobile Developer
 Backend Developer
 
@@ -49,7 +49,7 @@ CampusNav 🚀
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science Student
+- 🎓 Computer Science Student at BANJARMASIN STATE POLYTECHNIC
 - 📱 Mobile App Developer
 - 🌐 Backend Developer
 - 💡 Interested in Flutter, Laravel, Python, UI/UX, and Data Mining
