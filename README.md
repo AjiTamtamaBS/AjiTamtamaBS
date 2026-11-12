@@ -23,7 +23,7 @@ ajitamtama@github:~$ pwd
 
 ajitamtama@github:~$ ls
 
-📂 CampusNav
+📂 SIPEKA
 📂 PROJECT_MONSTU
 📂 Flutter
 📂 Laravel
@@ -42,7 +42,7 @@ Figma
 
 ajitamtama@github:~$ echo $CURRENT_PROJECT
 
-CampusNav 🚀
+SIPEKA 🚀
 ```
 
 ---
@@ -53,7 +53,7 @@ CampusNav 🚀
 - 📱 Mobile App Developer
 - 🌐 Backend Developer
 - 💡 Interested in Flutter, Laravel, Python, UI/UX, and Data Mining
-- 🚀 Currently building **CampusNav**
+- 🚀 Currently building **SIPEKA**
 
 ---
 
